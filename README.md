@@ -1,4 +1,4 @@
-# Prometheus-Grafana-Zero-to-Hero
+# K8s-Monitoring-With-Prometheus-AND-Grafana
 
 This is a **Work-In-Progress** Repo for learning how monitor your kubernetes clusters using prometheus and visualize using grafana.
 
